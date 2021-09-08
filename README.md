@@ -12,7 +12,7 @@ My name is Rodolfo, I'm from Argentina and I'm a Backend Developer.
 * Principles S.O.L.I.D.
 * Design patterns
 * Web Frameworks
-* I am passionate about Python and Django
+* I am passionate about Python, Django and Vue.js
 
 ## Contact
 
