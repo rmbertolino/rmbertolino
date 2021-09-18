@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Rodolfo, I'm from Argentina and I'm a Backend Developer.
+My name is Rodolfo, I'm from Argentina and I'm a Full Stack Developer.
 
 * Currently working for [@PersonalAr](https://twitter.com/PersonalAr) as a Staff Software Engnieer
 
@@ -16,4 +16,4 @@ My name is Rodolfo, I'm from Argentina and I'm a Backend Developer.
 
 ## Contact
 
-Follow me on [website](https://twitter.com/rodobertolino)
+Follow me on [twitter](https://twitter.com/rodobertolino)
