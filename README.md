@@ -6,7 +6,7 @@ My name is Rodolfo, I'm from Argentina and I'm a Backend Developer.
 
 ## Skills
 
-* Backend developer
+* Full Stack Developer
 * OOP
 * Clean code
 * Principles S.O.L.I.D.
@@ -16,4 +16,4 @@ My name is Rodolfo, I'm from Argentina and I'm a Backend Developer.
 
 ## Contact
 
-Follow me on [website] (https://twitter.com/rodobertolino)
+Follow me on [website](https://twitter.com/rodobertolino)
