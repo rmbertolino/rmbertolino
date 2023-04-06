@@ -12,7 +12,7 @@ My name is Rodolfo, I'm from Argentina and I'm a Full Stack Developer.
 * Principles S.O.L.I.D.
 * Design patterns
 * Web Frameworks
-* I am passionate about Python, Django and Vue.js
+* I am passionate about Python(Django), Javascript(Node.js)
 
 ## Contact
 
