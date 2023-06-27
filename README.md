@@ -2,7 +2,7 @@
 
 My name is Rodolfo, I'm from Argentina and I'm a Full Stack Developer.
 
-* Currently working for [@PersonalAr](https://twitter.com/PersonalAr) as a Staff Software Engnieer
+* Currently working for [@PersonalAr](https://twitter.com/PersonalAr) as a Dev/Engineer
 
 ## Skills
 
@@ -12,7 +12,7 @@ My name is Rodolfo, I'm from Argentina and I'm a Full Stack Developer.
 * Principles S.O.L.I.D.
 * Design patterns
 * Web Frameworks
-* I am passionate about Python(Django), Javascript(Node.js)
+* I am passionate about Javascript(Node.js), Python(Django) 
 
 ## Contact
 
