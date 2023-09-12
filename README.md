@@ -11,8 +11,7 @@ My name is Rodolfo, I'm from Argentina and I'm a Dev/Engineer.
 * Clean code
 * Principles S.O.L.I.D.
 * Design patterns
-* Web Frameworks
-* I am passionate about Javascript(Node.js), Python(Django) 
+* I use Javascript with Express.js and Alpine.js and Python with Django
 
 ## Contact
 
