@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Rodolfo, I'm from Argentina and I'm a Dev/Engineer.
+My name is Rodolfo, I'm from Argentina and I'm a Full-Stack Engineer.
 
 * Currently working for [@PersonalAr](https://twitter.com/PersonalAr) as a Full Stack Developer
 
