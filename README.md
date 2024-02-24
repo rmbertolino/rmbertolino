@@ -11,8 +11,8 @@ My name is Rodolfo, I'm from Argentina and I'm a Full-Stack Engineer.
 * Clean code
 * Principles S.O.L.I.D.
 * Design patterns
-* Languages: JavaScript, Python and PHP
-* Frameworks: Express.js with HTMX, Django
+* Languages: JavaScript | Python | PHP
+* Frameworks: Express.js with HTMX | Django
 
 ## Contact
 
